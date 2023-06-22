@@ -1,1 +1,2 @@
 # katacoda-argocd-sample
+handson
